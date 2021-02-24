@@ -8,7 +8,7 @@ Entusiasta de tecnologia e apaixonado por produzir soluções que atenda as nece
 <br />:computer:  Backend: PHP, .Net, Node.js;
 <br />:computer: Front-end: HTML, Css, Javascript.
 
-Atualmente, faço parte da equipe de T.I. da Fundação Municipal de Niterói (FME) atuando no desenvolvimento Portal Educaional. 
+Atualmente, faço parte da equipe de T.I. da Fundação Municipal de Educação de Niterói (FME) atuando no desenvolvimento Portal Educaional.
 
 ### LinkedIn: https://www.linkedin.com/in/ricardo-azeredo-silva/
 
