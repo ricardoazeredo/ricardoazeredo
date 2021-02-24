@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ricardo Azeredo
 
-<!--
-**ricardoazeredo/ricardoazeredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! 👋
+Entusiasta de tecnologia e apaixonado por produzir soluções que atenda as necessidades do usuário através de softwares. 
 
-Here are some ideas to get you started:
+:mortar_board: Sou Programador, formado em Sistemas de Informação, com conhecimentos em:  
+:floppy_disk: Banco de Dasos: SQL Server e MySql; 
+<br />:computer:  Backend: PHP, .Net, Node.js;
+<br />:computer: Front-end: HTML, Css, Javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, faço parte da equipe de T.I. da Fundação Municipal de Niterói (FME) atuando no desenvolvimento Portal Educaional. 
+
+### LinkedIn: https://www.linkedin.com/in/ricardo-azeredo-silva/
+
